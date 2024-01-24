@@ -24,4 +24,18 @@ Ensure that you have Python installed on your machine. You can download it from 
 Execute the python file using this command in terminal:
 
 ```bash
-python quiz_game.py
+python quiz.py
+
+**### Running the functional test**
+
+Execute the functional testing file using this command in terminal:
+
+```bash
+python functional_testing.py
+
+**### Running the unit test**
+
+Execute the unit testing file using this command in terminal:
+
+```bash
+python unit_test_file.py
